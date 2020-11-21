@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.info {
+  display: flex;
+}
+h2 {
+  color: purple;
+}
+li {
+  list-style: square;
+}
